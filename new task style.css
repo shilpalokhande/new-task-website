@@ -1,0 +1,474 @@
+/* top-bar section starting from here */
+
+.social-icon a {
+    margin-left: 10px;
+}
+
+.login {
+    color: orange;
+}
+
+/* top bar ending section */
+
+/* navbar starting section */
+.navbar-nav li {
+    padding: 0px 8px;
+
+}
+
+.navbar-nav a {
+    color: #fff
+}
+
+#navbarSupportedContent {
+    background-color: #36a0e8;
+    padding: 10px;
+
+}
+
+.search-coupons {
+    border-radius: 30px;
+    align-items: center;
+    width: 22%;
+    margin-right: 8%;
+
+
+}
+
+.search-box {
+    background-color: #fff;
+    width: 100%;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.glass-search {
+    color: #fff;
+    background-color: orange;
+    padding: 11px;
+    border-radius: 0px 30px 30px 0px;
+}
+
+/* navbar section over */
+
+/* slider section starts here  */
+.use-code {
+    /* row-gap: 5%; */
+    text-align: left;
+    font-size: 38%;
+    color: black;
+    top: 5%;
+}
+
+.first {
+    font-size: 50px;
+}
+
+.slider-btn {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 15px;
+    color: #000;
+    font-weight: 600;
+    font-family: josefin sans;
+    text-transform: uppercase;
+    background-color: #e9a229;
+    border: 1px dashed #fff;
+    padding: 14px 25px;
+}
+
+.slider-button {
+    background-color: #000;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 15px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 14px 25px;
+}
+
+.on-first {
+    font-size: medium;
+}
+
+
+.visa-card {
+    text-align: center;
+    border: none;
+
+}
+
+.visa-card p {
+    color: black;
+    padding: 0px 5px 0px 5px;
+}
+
+/* nav tabs starting from here */
+.categories-main {
+    background: #fff;
+    /* margin-left: 100px; */
+    width: 100%;
+
+}
+
+.categories-main button {
+    /* float: left; */
+    width: 100%;
+}
+
+.categories-head {
+    background-color: #36a0e8;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    color: #fff;
+
+}
+
+#v-pills-tab {
+    width: 110%;
+    text-align: center;
+}
+
+.top-categories img {
+    border-radius: 5%;
+    margin-top: 5%;
+    width: 100%;
+
+}
+
+.categories-text {
+    position: relative;
+    margin-top: 0px;
+}
+
+.categories-text:hover .mega-img {
+    opacity: 1;
+}
+
+.top-categories {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.consectetur {
+    margin-top: 5%;
+}
+
+.mega-img {
+
+    background-color: orange;
+    position: absolute;
+    width: 80%;
+    top: 47%;
+    left: 10%;
+    border-radius: 9%;
+    opacity: 0;
+}
+
+.your-order {
+    text-align: center;
+    margin-top: 5px;
+
+}
+
+
+/* .nav-link.active {
+    background-color: #fff;
+} */
+
+.nav-pills .nav-link {
+    padding: 5%;
+}
+
+
+.mega-img button {
+    margin-left: 14px;
+}
+
+.holiday {
+    padding: 5%;
+}
+/* slider Start */
+.usecode-btn{
+    padding-top: 20px;
+}
+.shopnow-btn{
+    padding-top: 40px;
+}
+
+
+
+
+.get_deal {
+    width: 25% !important;
+    margin-left: 272px;
+    margin-top: 5%;
+    color: #fff;
+}
+
+
+
+
+
+
+/* nav tabs ending from here */
+
+/* slick slider starting section */
+.card {
+    border: none;
+    width: 100%;
+
+}
+
+.star {
+    color: orange;
+}
+
+.feature {
+    background-color: rgb(237, 236, 236);
+}
+
+.feature-coupon {
+    text-align: center;
+    margin-top: -5%;
+}
+
+.card-a {
+    padding: 4%;
+    box-shadow: 3px 10px snow;
+}
+
+.expire {
+    color: red;
+}
+
+.product_main {
+    margin-top: 6%;
+}
+
+.feature_product {
+    position: relative;
+}
+
+.feature_card {
+    position: absolute;
+}
+
+.feature_card img {
+    margin-left: 10%;
+    margin-top: -225px;
+}
+
+.only-this a {
+    margin-left: 25%;
+
+}
+
+.store {
+    border: 1px solid gainsboro;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.card-text:last-child {
+    margin-bottom: -6px;
+}
+
+.store img {
+    border-radius: 5%;
+}
+
+.store h3 {
+    background-color: #36a0e8;
+    border-radius: 0px 0px 5% 5%;
+    padding: 30px 0px 30px 0px;
+}
+
+.store-lorem {
+    padding: unset;
+    height: 132px;
+}
+
+.lorem {
+    text-align: start;
+    margin-top: 70px;
+
+}
+
+.lorem button {
+    color: #fff;
+}
+
+.upcoming-sale {
+    padding: 5%;
+    position: relative;
+}
+
+.upcoming-sale img {
+    position: relative;
+}
+
+.megha-sale .slick-list {
+    padding-bottom: 70px;
+}
+
+.sale_up {
+    background: #fff;
+    border-radius: 5%;
+    width: 80%;
+    height: inherit;
+    text-align: center;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    box-shadow: 3px 10px whitesmoke;
+    z-index: 1;
+    bottom: -43px;
+}
+
+
+
+.jan {
+    background-color: #36a0e8;
+    text-align: start;
+    width: min-content;
+    border-radius: 5px 0 5px 0;
+    padding: 5px 10px;
+}
+
+.Sale-Events {
+    text-align: center;
+    margin-top: 5%;
+}
+
+/* <!-- Popular Located Stores starting section -->  */
+
+.Popular-Located img {
+    padding: 0px;
+    box-shadow: 3px 5px whitesmoke;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+.located-store {
+    background-color: rgb(237, 236, 236);
+}
+
+.located_stores {
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.partner-brand {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.partner {
+    box-shadow: 3px 5px whitesmoke;
+}
+
+.partner img {
+    width: 100%;
+}
+
+.coupons-waiting {
+    background-color: rgb(254, 199, 179);
+    border-radius: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%
+}
+
+.all-new {
+    margin-top: 10%;
+}
+
+.all-new button {
+    color: white;
+    border-radius: 5%;
+    margin-top: 5%;
+
+}
+
+.coupon_left {
+    margin-top: 3%;
+    padding: 5px 0px 10px 15%;
+    margin-bottom: 5%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .coupon_left img {
+        width: 100%;
+        margin-left: -96px;
+    }
+}
+
+.blog-img {
+    padding: 30px;
+    margin-top: -30px;
+
+}
+
+.latest-blog {
+    text-align: center;
+}
+
+/* .Coupon-flex {
+
+} */
+img.card-img-top {
+    padding: 4%;
+    border-radius: 28px;
+}
+
+.latest-icon {
+    margin-top: 5%;
+}
+
+/* footer section starting */
+.footer_bcg {
+    background-color: #36a0e8;
+}
+
+.ipsum {
+    color: #fff;
+}
+
+.footer-section {
+    padding-top: 5%;
+}
+
+.brands-icons i {
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.find-us {
+    color: #fff;
+}
+
+.general {
+    margin-left: 28px;
+    color: #fff;
+}
+
+ul.no-bullets {
+    list-style: none;
+    color: #fff;
+}
+
+.flex {
+    display: flex;
+}
+
+.copy {
+    color: #fff;
+}
+
+.copy-right a {
+    color: #fff;
+    text-decoration: none;
+}

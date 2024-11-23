@@ -1,0 +1,104 @@
+@media screen and (max-width:768px) {
+    .star {
+        display: flex;
+    }
+    .visa-card{
+        margin-top: 20px;
+    }
+    .visa-card p {
+        color: black;
+        padding: 0px 5px 0px 5px;
+    }
+
+    .get_deal {
+
+        margin-left: 38%;
+    }
+
+    .sale_up {
+
+        bottom: -123px;
+    }
+
+    .btn btn-light {
+
+        margin-top: -8px;
+    }
+
+    .only-this a {
+        margin-left: 0%;
+    }
+
+    .megha-sale .slick-list {
+        padding-bottom: 138px;
+    }
+
+    .consectetur {
+        margin-top: 12%;
+    }
+
+    .feature_card img {
+        margin-top: -154px;
+        margin-left: 2px;
+
+    }
+
+    .search-coupons {
+        width: 22%;
+    }
+
+    .cross {
+        margin-left: 90%;
+        font-size: x-large;
+
+    }
+
+    .first {
+        font-size: 25px;
+        margin-top: -6px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        display: none;
+    }
+
+    .shop_now {
+        margin-top: -4px;
+    }
+    .slider-btn{
+        padding: 14px 25px;
+    }
+   
+
+
+
+}
+
+
+/* large screen */
+
+
+@media (min-width:768px) and (max-width:991px) {
+    .expire {
+        margin-top: -7px;
+    }
+}
+
+/* 1024 media */
+
+@media screen and (min-width: 1440px) {
+    .get_deal {
+        margin-left: 233px;
+        padding: 15px 3px 19px 10px;
+
+    }
+
+    .expire {
+        margin-top: -15px;
+    }
+
+    .visa-card p {
+        color: black;
+        padding: 0px 5px 0px 5px;
+    }
+}
